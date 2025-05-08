@@ -1,1 +1,2 @@
-# AutomatedPhotoCapturing
+# AI Powered Automated Photo Capturing
+
